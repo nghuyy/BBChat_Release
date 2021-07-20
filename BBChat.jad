@@ -1,8 +1,8 @@
 MIDlet-Name: BBChat
-MIDlet-Version: 1.0.7
+MIDlet-Version: 1.0.8
 MIDlet-Vendor: VNAPPS.COM
 MIDlet-Jar-URL: BBChat.jar
-MIDlet-Jar-Size: 871738
+MIDlet-Jar-Size: 871058
 MIDlet-Description: XMPP
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
@@ -10,29 +10,29 @@ MIDlet-1: Chat,res/img/ic_laucher.png,
 RIM-MIDlet-Flags-1: 0
 Manifest-Version: 1.0
 RIM-COD-URL: BBChat.cod
-RIM-COD-Size: 74548
-RIM-COD-Creation-Time: 1626770067
+RIM-COD-Size: 74380
+RIM-COD-Creation-Time: 1626798282
 RIM-COD-Module-Name: BBChat
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_messagelist,net_rim_os,net_rim_bbapi_invoke,net_rim_bbapi_menuitem
-RIM-COD-SHA1: a7 8f d1 6d 3a 18 f5 03 53 3e 9f b3 9b fa e5 e9 37 c1 50 bc
+RIM-COD-SHA1: c8 6d 21 85 7e 58 cd 3d da df 10 6a cd 25 a9 b7 d8 fe 23 73
 RIM-COD-URL-1: BBChat-1.cod
 RIM-COD-Size-1: 60352
-RIM-COD-SHA1-1: a1 60 9b 4f f1 db 41 fe 0e fd 8e 96 d7 1f 93 04 51 eb 71 a5
+RIM-COD-SHA1-1: ac 7b dc f5 f5 c7 ad a4 84 ad aa a7 c6 31 55 29 66 36 d4 f4
 RIM-COD-URL-2: BBChat-2.cod
 RIM-COD-Size-2: 56956
-RIM-COD-SHA1-2: 3e 2d 66 cb e2 4c 87 10 5c 60 ae 97 f1 6a 40 de e9 cb 6a a2
+RIM-COD-SHA1-2: c3 c9 7d b4 fd dc 34 14 7c e5 0e 5a 51 f7 8e bd 35 84 01 34
 RIM-COD-URL-3: BBChat-3.cod
 RIM-COD-Size-3: 56788
-RIM-COD-SHA1-3: a7 d7 c3 d3 3b 9e c4 a3 e7 84 ee 57 ee 8e cc 6d 6b 92 7c b6
+RIM-COD-SHA1-3: 14 74 16 d1 21 78 c9 b5 96 a3 46 7b ab 6b f5 45 94 42 f7 08
 RIM-COD-URL-4: BBChat-4.cod
 RIM-COD-Size-4: 44976
-RIM-COD-SHA1-4: 80 f8 a0 86 16 a3 30 65 09 da 8b 23 85 2a e4 23 5f 17 96 09
+RIM-COD-SHA1-4: bc c5 f4 72 48 bd 2c 73 0c 2e f3 cf 25 88 0a d4 3a 7b ab 9a
 RIM-COD-URL-5: BBChat-5.cod
 RIM-COD-Size-5: 44756
-RIM-COD-SHA1-5: 95 ae 8f 5e 55 e6 2a 1d 74 5b 0b 1a 3a eb 33 92 73 fa 59 12
+RIM-COD-SHA1-5: 6c 91 dd f8 92 e2 3c 88 de b0 ee 79 23 d8 f3 37 65 59 b1 16
 RIM-COD-URL-6: BBChat-6.cod
 RIM-COD-Size-6: 43728
-RIM-COD-SHA1-6: a0 a7 3f d6 bf f2 68 0d 48 05 6c e1 c4 a1 e5 6d db 80 08 f6
+RIM-COD-SHA1-6: d9 8f 46 68 2a ca d8 c5 4b 2f 0c a4 55 65 88 c5 25 79 4a f7
 RIM-COD-URL-7: BBChat-7.cod
 RIM-COD-Size-7: 60304
-RIM-COD-SHA1-7: ad 7d 82 91 15 23 b3 7b 9f 9d 54 23 04 9a 1b 47 c2 93 93 aa
+RIM-COD-SHA1-7: f8 2f 88 81 f0 ba 1e 29 1b 8c ea 8e d8 1f e0 7e a1 6a 80 79
