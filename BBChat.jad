@@ -1,8 +1,8 @@
 MIDlet-Name: BBChat
-MIDlet-Version: 1.0.36
+MIDlet-Version: 1.0.37
 MIDlet-Vendor: VNAPPS.COM
 MIDlet-Jar-URL: BBChat.jar
-MIDlet-Jar-Size: 293956
+MIDlet-Jar-Size: 293955
 MIDlet-Description: XMPP
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
@@ -11,13 +11,13 @@ RIM-MIDlet-Flags-1: 0
 Manifest-Version: 1.0
 RIM-COD-URL: BBChat.cod
 RIM-COD-Size: 71932
-RIM-COD-Creation-Time: 1632454723
+RIM-COD-Creation-Time: 1632456156
 RIM-COD-Module-Name: BBChat
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_messagelist,net_rim_os
-RIM-COD-SHA1: e8 7a 58 d3 c8 c6 c7 88 12 ce 45 44 92 73 b0 4c 07 77 0b a9
+RIM-COD-SHA1: a8 ee e0 1b a8 98 79 c7 64 d5 ef c9 31 3c 2b 4e c3 b3 57 ca
 RIM-COD-URL-1: BBChat-1.cod
 RIM-COD-Size-1: 66720
-RIM-COD-SHA1-1: 1d a1 7c 2c 59 6c bf ce 68 81 a6 eb 35 a2 78 e7 aa 88 6e 12
+RIM-COD-SHA1-1: 7e 94 cf 1d 7f 7b 64 a3 11 fd db 58 98 27 f9 0d c0 4c 67 75
 RIM-COD-URL-2: HLibs.cod
 RIM-Library-Flags: 2
 RIM-COD-Size-2: 24096
