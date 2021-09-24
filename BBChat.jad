@@ -1,8 +1,8 @@
 MIDlet-Name: BBChat
-MIDlet-Version: 1.0.31
+MIDlet-Version: 1.0.35
 MIDlet-Vendor: VNAPPS.COM
 MIDlet-Jar-URL: BBChat.jar
-MIDlet-Jar-Size: 836855
+MIDlet-Jar-Size: 293953
 MIDlet-Description: XMPP
 MicroEdition-Profile: MIDP-2.0
 MicroEdition-Configuration: CLDC-1.1
@@ -10,32 +10,14 @@ MIDlet-1: Chat,res/img/ic_laucher.png,
 RIM-MIDlet-Flags-1: 0
 Manifest-Version: 1.0
 RIM-COD-URL: BBChat.cod
-RIM-COD-Size: 69460
-RIM-COD-Creation-Time: 1632454037
+RIM-COD-Size: 71932
+RIM-COD-Creation-Time: 1632454601
 RIM-COD-Module-Name: BBChat
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_messagelist,net_rim_os
-RIM-COD-SHA1: 49 49 d6 21 b6 1f 06 3f 1c 00 1e 63 8c 04 2c 77 45 23 af 92
+RIM-COD-SHA1: 15 44 a9 4f 71 23 e5 05 b0 56 39 62 0c d5 d9 82 97 6f fe 12
 RIM-COD-URL-1: BBChat-1.cod
-RIM-COD-Size-1: 66276
-RIM-COD-SHA1-1: 63 2e 95 0c 55 8d 3c ca f4 ee 0e a7 a6 58 47 a3 20 8a 09 3f
-RIM-COD-URL-2: BBChat-2.cod
-RIM-COD-Size-2: 56960
-RIM-COD-SHA1-2: 24 3e a3 b2 27 64 bb af ac b1 0d d8 c4 99 41 d2 4c 31 6e b4
-RIM-COD-URL-3: BBChat-3.cod
-RIM-COD-Size-3: 56788
-RIM-COD-SHA1-3: 2c 9c e8 20 2f 24 8b 99 d7 e3 cf 2e c0 99 72 5c 8f 9b 9e 13
-RIM-COD-URL-4: BBChat-4.cod
-RIM-COD-Size-4: 44980
-RIM-COD-SHA1-4: ee ad 46 ba c7 37 45 39 65 7d 75 50 41 57 91 8e 3f aa b3 fa
-RIM-COD-URL-5: BBChat-5.cod
-RIM-COD-Size-5: 44756
-RIM-COD-SHA1-5: b5 f8 40 eb 6e ef 09 ed c6 5d 0b a7 46 ed 3d f6 2d 37 6e 43
-RIM-COD-URL-6: BBChat-6.cod
-RIM-COD-Size-6: 43728
-RIM-COD-SHA1-6: 8e 01 fd de 01 ab 29 10 29 d7 c5 38 0b 4d b5 d5 3b b3 db 92
-RIM-COD-URL-7: BBChat-7.cod
-RIM-COD-Size-7: 47128
-RIM-COD-SHA1-7: 03 41 73 db d2 1a c7 55 61 80 39 83 47 d7 98 18 ec d3 84 23
-RIM-COD-URL-8: HLibs.cod
+RIM-COD-Size-1: 66720
+RIM-COD-SHA1-1: de e1 26 65 40 91 f7 a4 d2 16 ae 5a 8a 7b 89 f9 87 54 a7 f4
+RIM-COD-URL-2: HLibs.cod
 RIM-Library-Flags: 2
-RIM-COD-Size-8: 24096
+RIM-COD-Size-2: 24096
